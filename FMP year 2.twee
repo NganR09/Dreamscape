@@ -1,0 +1,143 @@
+:: StoryTitle
+FMP year 2
+
+
+:: StoryData
+{
+  "ifid": "FFAE07A4-1CA2-4F31-9020-01B38E49CC86",
+  "format": "Harlowe",
+  "format-version": "3.3.8",
+  "start": "Start",
+  "zoom": 1
+}
+
+
+:: After the battle {"position":"1800,600","size":"100,100"}
+(align:"<==>")+(box:"X")[//The battle ends and the depression and guilt emotions have disappeared.//
+
+
+Before the protagonist leaves the dreamscape and wakes up, their emotions have some parting words for them:
+
+
+Hope: Recover from this and you will find true inner peace.
+
+
+Fear: The future looks scary going forward, but we could be all right.
+
+
+Protagonist: You're the only 3 that remain? But why?
+
+
+Hope: For me, there is always hope in the world. So please, never give me up.
+
+
+Frustration: It may have looked like you defeated me, but you have only learned to manage me.
+
+
+Fear: And for me, fear is innate in every being, there is no way to truly get rid of me. For example, one thing you fear at this moment is the future. You're not sure about how it'll look like going forward.
+
+
+Hope: But being in the moment is important, what you do now will impact your future. Recovery can finally allow you to start living your life.
+
+
+Protagonist: Then... tomorrow I will book to see a therapist!
+
+
+With that, the protagonist wakes up.]
+
+
+[[End]]
+
+
+:: Battle {"position":"1600,600","size":"100,100"}
+(align:"<==>")+(box:"X")[//The protagonist takes a battle stance, the battle UI appears and the player is transitioned into battle.// 
+
+
+(This dialogue will occur at the start and will continue until it's finished During this, the emotions and the player can attack each other.)
+
+
+Depression: Just give up, there's no point. Nothing will change, it's just going to get worse from here.
+
+
+Frustration: Why can't you just ignore //them//? Why does it bother you so much?
+
+
+Protagonist: I tried ignoring them for so long, being their "perfect" child and look where that got me.
+
+
+Guilt: You couldn't even help yourself before. What makes you think that you can do anything now?
+
+
+Depression: You're not going to get anywhere, you're just worthless.
+
+
+Protagonist: That's not true!
+
+---
+
+(During the battle, the emotions will have voice lines for when they are attacked/nearly dead.)
+
+
+Depression: There's no point, just finish me off.
+
+
+Guilt: I deserve this.]
+
+
+[[After the battle]]
+
+
+:: Before the battle {"position":"1400,600","size":"100,100"}
+(align:"<==>")+(box:"X")[The protagonist goes to bed, hoping to be able to get some sleep tonight. Lately it's been especially bad for them at home. Their parents have been constantly fighting about petty issues, blaming the protagonist for their own misery. Beating them for the smallest mistakes and yelling whenever they get home. 
+
+
+The protagonist closes their eyes, slowly slipping into a whole other nightmare. Suddenly they are in a dreamscape. Their dreamscape looks very familiar, it looks like their own room, but something is off...
+
+
+Slowly they open their eyes, the first thing they notice are their arms and hands. Their skin have scales on them, their finger nails are now claws. For a moment, the protagonst feels confused by their appearance, but their confusion is quickly displaced. It feels like something with a presence bigger than their own is in the room with them. They are met with 5 beings in the room with them. The atmosphere is tense, the beings in their room look humanoid but spirit-like, the protagonist knows what they are and why they're here. 
+
+
+
+Protagonist: "It's time, isn't it? I think I'm ready now, I need to face what I feel."
+
+
+Depression: "Give it up, you can't defeat us. You're too weak."
+
+
+Fear: "These guys are very strong, you should wake up and just accept life as it is."
+
+
+Guilt: "You're so selfish, ungrateful. Everyone has sacrificed everything to get you here, and what have you done? Nothing. Zero."
+
+
+Frustration: "Why do you always do this?! What good have you done?"
+
+
+Hope: "Now is the time for change. Things will get better after this, I promise."
+
+
+Protagonist: "..."]
+
+
+[[Battle]]
+
+
+:: End {"position":"2000,600","size":"100,100"}
+They move far away from their family and finds peace and freedom within the world
+
+They live a new life, free of the emotions which were always tying them down
+
+They cut out all the people who made them feel that way in the first place
+
+The good ending
+
+
+:: Start {"position":"1200,600","size":"100,100"}
+The protagonist is shown to have gone through some family trauma previously in their life
+
+The protagonist has just gone through another emotional/traumatic event which triggers them to finally face their emotions
+
+After this event, they have a nightmare in which the battle takes place in
+
+
+[[Before the battle]]
