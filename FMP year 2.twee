@@ -7,12 +7,12 @@ FMP year 2
   "ifid": "FFAE07A4-1CA2-4F31-9020-01B38E49CC86",
   "format": "Harlowe",
   "format-version": "3.3.8",
-  "start": "Start",
+  "start": "Title screen",
   "zoom": 1
 }
 
 
-:: After the battle {"position":"1800,600","size":"100,100"}
+:: After the battle {"position":"1800,900","size":"100,100"}
 (align:"<==>")+(box:"X")[//The battle ends and the depression and guilt emotions have disappeared.//
 
 
@@ -49,7 +49,7 @@ With that, the protagonist wakes up.]
 [[End]]
 
 
-:: Battle {"position":"1600,600","size":"100,100"}
+:: Battle {"position":"1600,900","size":"100,100"}
 (align:"<==>")+(box:"X")[//The protagonist takes a battle stance, the battle UI appears and the player is transitioned into battle.// 
 
 
@@ -87,7 +87,7 @@ Guilt: I deserve this.]
 [[After the battle]]
 
 
-:: Before the battle {"position":"1400,600","size":"100,100"}
+:: Before the battle {"position":"1400,900","size":"100,100"}
 (align:"<==>")+(box:"X")[The protagonist goes to bed, hoping to be able to get some sleep tonight. Lately it's been especially bad for them at home. Their parents have been constantly fighting about petty issues, blaming the protagonist for their own misery. Beating them for the smallest mistakes and yelling whenever they get home. 
 
 
@@ -122,7 +122,27 @@ Protagonist: "..."]
 [[Battle]]
 
 
-:: End {"position":"2000,600","size":"100,100"}
+:: Controls {"position":"1500,700","size":"100,100"}
+Right mouse click: heal
+
+
+Left mouse click: harm
+
+
+WSAD: move
+
+
+Spacebar: jump
+
+
+:: Credits {"position":"1900,700","size":"100,100"}
+Left side of the brain: Isaac
+
+
+Right side of the brain: Rosalind
+
+
+:: End {"position":"2000,900","size":"100,100"}
 They move far away from their immediate family and with their grandparents. Here they are given the space to life a new life, pursue what they want to do and find peace within their world.
 
 
@@ -135,7 +155,18 @@ They cut out all the people who made them feel that way in the first place.
 
 
 
-:: Start {"position":"1200,600","size":"100,100"}
+:: Extra content {"position":"1700,700","size":"100,100"}
+A stylised version of this twine file to portray the rest of the story that the player doesn't see like a novel.
+
+
+:: Play {"position":"1300,700","size":"100,100"}
+Plays the game
+
+
+[[Start]] 
+
+
+:: Start {"position":"1200,900","size":"100,100"}
 The protagonist is shown to have gone through some family trauma previously in their life.
 
 
@@ -164,3 +195,28 @@ After this event, they have a nightmare in which the battle with their emotions 
 
 
 [[Before the battle]]
+
+
+:: Title screen {"position":"1600,500","size":"100,100"}
+(align:"=><=")+(box:"X")[=
+#Silent Sentiment
+
+
+
+
+
+
+
+[[Play]] 
+
+
+
+[[Controls]] 
+
+
+
+[[Extra content]] 
+
+
+
+[[Credits]]
