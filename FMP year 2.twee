@@ -81,7 +81,16 @@ Protagonist: That's not true!
 Depression: There's no point, just finish me off.
 
 
-Guilt: I deserve this.]
+Guilt: I deserve this.
+
+
+Frustration: Why?
+
+
+Fear: Ow, I'm sorry.
+
+
+Hope: Not enough.]
 
 
 [[After the battle]]
@@ -152,9 +161,6 @@ With their new life, they are free of the emotions which were always tying them 
 They cut out all the people who made them feel that way in the first place.
 
 
-
-
-
 :: Extra content {"position":"1700,700","size":"100,100"}
 A stylised version of this twine file to portray the rest of the story that the player doesn't see like a novel.
 
@@ -163,7 +169,7 @@ A stylised version of this twine file to portray the rest of the story that the 
 Plays the game
 
 
-[[Start]] 
+[[Start]]
 
 
 :: Start {"position":"1200,900","size":"100,100"}
